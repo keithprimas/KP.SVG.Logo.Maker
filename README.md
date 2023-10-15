@@ -20,7 +20,7 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Walkthrough Video
-C:\Users\keith\OneDrive\Desktop\Modules\KP.SVG.Logo.Maker\KP.SVG.Logo.Maker\video.mp4
+https://drive.google.com/file/d/168KLHC7tzWG9pXFcX3x5jsbD4r-NyZMT/view?usp=drive_link
 
 
 ## Screenshot
