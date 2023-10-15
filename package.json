@@ -1,19 +1,15 @@
 {
-  "name": "kp.svg.logo.maker",
+  "name": "svg-logo-generator",
   "version": "1.0.0",
-  "description": "AS a freelance web developer I WANT to generate a simple logo for my projects SO THAT I don't have to pay a graphic designer",
+  "description": "Logo generator",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "jest": "^29.7.0"
+      "test": "jest"
   },
   "dependencies": {
-    "@svgdotjs/svg.js": "^3.2.0",
-    "inquirer": "^9.2.11",
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
