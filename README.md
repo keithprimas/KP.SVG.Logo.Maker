@@ -20,7 +20,7 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Walkthrough Video
-<video src="video.mp4" controls title="Title"></video>
+<video src="video.mp4" controls title="\[video.mov\]"></video>
 
 
 ## Screenshot
